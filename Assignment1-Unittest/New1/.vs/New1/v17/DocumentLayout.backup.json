@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jahnavi Tenneti\\Source\\Repos\\New1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{206CED2C-318E-463D-B03C-71D28F016728}|..\\New1.Tests\\New1.Tests.csproj|c:\\users\\jahnavi tenneti\\source\\repos\\new1.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF1C132-C2F4-4194-A999-BD9A72F98C6A}|New1.csproj|c:\\users\\jahnavi tenneti\\source\\repos\\new1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF1C132-C2F4-4194-A999-BD9A72F98C6A}|New1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206CED2C-318E-463D-B03C-71D28F016728}|..\\New1.Tests\\New1.Tests.csproj|c:\\users\\jahnavi tenneti\\source\\repos\\new1.tests\\new1.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Jahnavi Tenneti\\Source\\Repos\\New1.Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\New1.Tests\\Test1.cs",
+              "ToolTip": "C:\\Users\\Jahnavi Tenneti\\Source\\Repos\\New1.Tests\\Test1.cs*",
+              "RelativeToolTip": "..\\New1.Tests\\Test1.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:16:29.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "New1.Tests",
+              "DocumentMoniker": "C:\\Users\\Jahnavi Tenneti\\Source\\Repos\\New1.Tests\\New1.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\New1.Tests\\New1.Tests.csproj",
+              "ToolTip": "C:\\Users\\Jahnavi Tenneti\\Source\\Repos\\New1.Tests\\New1.Tests.csproj",
+              "RelativeToolTip": "..\\New1.Tests\\New1.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T09:31:23.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jahnavi Tenneti\\Source\\Repos\\New1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jahnavi Tenneti\\Source\\Repos\\New1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:14:45.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

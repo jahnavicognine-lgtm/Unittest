@@ -1,0 +1,15 @@
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\bin\Debug\net8.0\New3.exe
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\bin\Debug\net8.0\New3.deps.json
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\bin\Debug\net8.0\New3.runtimeconfig.json
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\bin\Debug\net8.0\New3.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\bin\Debug\net8.0\New3.pdb
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\obj\Debug\net8.0\New3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\obj\Debug\net8.0\New3.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\obj\Debug\net8.0\New3.AssemblyInfo.cs
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\obj\Debug\net8.0\New3.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\obj\Debug\net8.0\New3.sourcelink.json
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\obj\Debug\net8.0\New3.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\obj\Debug\net8.0\refint\New3.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\obj\Debug\net8.0\New3.pdb
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\obj\Debug\net8.0\New3.genruntimeconfig.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\New3\obj\Debug\net8.0\ref\New3.dll

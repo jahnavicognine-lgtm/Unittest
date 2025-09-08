@@ -1,0 +1,15 @@
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\bin\Debug\net8.0\New1.exe
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\bin\Debug\net8.0\New1.deps.json
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\bin\Debug\net8.0\New1.runtimeconfig.json
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\bin\Debug\net8.0\New1.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\bin\Debug\net8.0\New1.pdb
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\obj\Debug\net8.0\New1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\obj\Debug\net8.0\New1.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\obj\Debug\net8.0\New1.AssemblyInfo.cs
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\obj\Debug\net8.0\New1.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\obj\Debug\net8.0\New1.sourcelink.json
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\obj\Debug\net8.0\New1.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\obj\Debug\net8.0\refint\New1.dll
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\obj\Debug\net8.0\New1.pdb
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\obj\Debug\net8.0\New1.genruntimeconfig.cache
+C:\Users\Jahnavi Tenneti\Source\Repos\New1\obj\Debug\net8.0\ref\New1.dll

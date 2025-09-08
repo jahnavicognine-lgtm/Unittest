@@ -1,0 +1,28 @@
+2025-09-08T09:57:13.5773216+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.8.4+ac62226a2475fb11f9a6a0bfba3498dc5a707a49
+2025-09-08T09:57:13.6784424+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-09-08T09:57:13.6813359+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-09-08T09:57:13.6813495+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 09:57:13.532
+2025-09-08T09:57:13.6823956+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 27360
+2025-09-08T09:57:13.6826141+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.18
+2025-09-08T09:57:13.6826308+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.18\System.Private.CoreLib.dll
+2025-09-08T09:57:13.6826507+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-09-08T09:57:13.6827722+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\Jahnavi Tenneti\Source\Repos\New2.Tests\bin\Debug\net8.0\New2.Tests.dll
+2025-09-08T09:57:13.6831372+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\Jahnavi Tenneti\Source\Repos\New2.Tests\bin\Debug\net8.0\Log --results-directory C:\Users\Jahnavi Tenneti\Source\Repos\New2\TestResults --client-port 60745'
+2025-09-08T09:57:13.6867898+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-09-08T09:57:13.7547377+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-09-08T09:57:13.7784939+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2025-09-08T09:57:14.0931912+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.10.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-09-08T09:57:14.1413019+00:00 mstest-trace INFORMATION MSTestExecutor.RunTests: Running tests from sources.
+2025-09-08T09:57:14.1482054+00:00 mstest-trace INFORMATION CollectSourceInformation value found : False 
+2025-09-08T09:57:14.2075217+00:00 mstest-trace INFORMATION MSTestDiscoverer: Found 4 tests from source C:\Users\Jahnavi Tenneti\Source\Repos\New2.Tests\bin\Debug\net8.0\New2.Tests.dll
+2025-09-08T09:57:14.2436824+00:00 mstest-trace INFORMATION Created unit-test runner C:\Users\Jahnavi Tenneti\Source\Repos\New2.Tests\bin\Debug\net8.0\New2.Tests.dll
+2025-09-08T09:57:14.2547005+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Test Parallelization enabled for C:\Users\Jahnavi Tenneti\Source\Repos\New2.Tests\bin\Debug\net8.0\New2.Tests.dll (Workers: 4, Scope: MethodLevel)
+2025-09-08T09:57:14.2726582+00:00 mstest-trace INFORMATION Executing test Substring_EqualsMainString
+2025-09-08T09:57:14.2726600+00:00 mstest-trace INFORMATION Executing test Substring_Found_MultipleTimes
+2025-09-08T09:57:14.2726600+00:00 mstest-trace INFORMATION Executing test Substring_NotFound
+2025-09-08T09:57:14.2782113+00:00 mstest-trace INFORMATION Executing test Substring_SingleCharacter
+2025-09-08T09:57:14.3093540+00:00 mstest-trace INFORMATION Executed test Substring_Found_MultipleTimes
+2025-09-08T09:57:14.3093540+00:00 mstest-trace INFORMATION Executed test Substring_NotFound
+2025-09-08T09:57:14.3093541+00:00 mstest-trace INFORMATION Executed test Substring_EqualsMainString
+2025-09-08T09:57:14.3093541+00:00 mstest-trace INFORMATION Executed test Substring_SingleCharacter
+2025-09-08T09:57:14.3170050+00:00 mstest-trace INFORMATION Executed tests belonging to source C:\Users\Jahnavi Tenneti\Source\Repos\New2.Tests\bin\Debug\net8.0\New2.Tests.dll

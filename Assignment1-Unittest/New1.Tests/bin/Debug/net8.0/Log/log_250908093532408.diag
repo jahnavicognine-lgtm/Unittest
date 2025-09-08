@@ -1,0 +1,30 @@
+2025-09-08T09:35:32.4196049+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.8.4+ac62226a2475fb11f9a6a0bfba3498dc5a707a49
+2025-09-08T09:35:32.4477053+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-09-08T09:35:32.4505712+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-09-08T09:35:32.4505824+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 09:35:32.366
+2025-09-08T09:35:32.4515619+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 6568
+2025-09-08T09:35:32.4517666+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.18
+2025-09-08T09:35:32.4517862+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.18\System.Private.CoreLib.dll
+2025-09-08T09:35:32.4518193+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-09-08T09:35:32.4519152+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\Jahnavi Tenneti\Source\Repos\New1.Tests\bin\Debug\net8.0\New1.Tests.dll
+2025-09-08T09:35:32.4522749+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\Jahnavi Tenneti\Source\Repos\New1.Tests\bin\Debug\net8.0\Log --results-directory C:\Users\Jahnavi Tenneti\Source\Repos\New1\TestResults --client-port 57585'
+2025-09-08T09:35:32.4549907+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-09-08T09:35:32.5078380+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-09-08T09:35:32.5333199+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2025-09-08T09:35:32.8383312+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.10.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-09-08T09:35:32.8951569+00:00 mstest-trace INFORMATION MSTestExecutor.RunTests: Running tests from sources.
+2025-09-08T09:35:32.9015326+00:00 mstest-trace INFORMATION CollectSourceInformation value found : False 
+2025-09-08T09:35:32.9424782+00:00 mstest-trace INFORMATION MSTestDiscoverer: Found 3 tests from source C:\Users\Jahnavi Tenneti\Source\Repos\New1.Tests\bin\Debug\net8.0\New1.Tests.dll
+2025-09-08T09:35:32.9728278+00:00 mstest-trace INFORMATION Created unit-test runner C:\Users\Jahnavi Tenneti\Source\Repos\New1.Tests\bin\Debug\net8.0\New1.Tests.dll
+2025-09-08T09:35:32.9840213+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Test Parallelization enabled for C:\Users\Jahnavi Tenneti\Source\Repos\New1.Tests\bin\Debug\net8.0\New1.Tests.dll (Workers: 4, Scope: MethodLevel)
+2025-09-08T09:35:32.9976058+00:00 mstest-trace INFORMATION Executing test FindMaxProduct_WhenStringIs123456_Returns360
+2025-09-08T09:35:32.9976082+00:00 mstest-trace INFORMATION Executing test FindMaxProduct_WhenStringHasZeros_ReturnsZero
+2025-09-08T09:35:32.9976127+00:00 mstest-trace INFORMATION Executing test FindMaxProduct_WhenStringHasMultipleMaxProducts_Returns24
+2025-09-08T09:35:33.0906652+00:00 mstest-trace INFORMATION Executed test FindMaxProduct_WhenStringHasZeros_ReturnsZero
+2025-09-08T09:35:33.0906652+00:00 mstest-trace INFORMATION Executed test FindMaxProduct_WhenStringIs123456_Returns360
+2025-09-08T09:35:33.1385155+00:00 mstest-trace INFORMATION Executed test FindMaxProduct_WhenStringHasMultipleMaxProducts_Returns24
+2025-09-08T09:35:33.1386040+00:00 mstest-trace INFORMATION MSTestExecutor:Test New1.Tests.Test1.FindMaxProduct_WhenStringHasMultipleMaxProducts_Returns24 failed. ErrorMessage:Assert.AreEqual failed. Expected:<24>. Actual:<144>. , ErrorStackTrace:   at New1.Tests.Test1.FindMaxProduct_WhenStringHasMultipleMaxProducts_Returns24() in C:\Users\Jahnavi Tenneti\Source\Repos\New1.Tests\Test1.cs:line 34
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+.
+2025-09-08T09:35:33.1393685+00:00 mstest-trace INFORMATION Executed tests belonging to source C:\Users\Jahnavi Tenneti\Source\Repos\New1.Tests\bin\Debug\net8.0\New1.Tests.dll
